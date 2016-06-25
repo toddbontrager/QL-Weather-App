@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A responsive application to get current weather conditions",
   "main": "app.js",
+  "engines": {
+    "node": "4.4.6"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/toddbontrager/QL-Weather-App/issues"
   },
-  "homepage": "https://github.com/toddbontrager/QL-Weather-App#readme"
+  "homepage": "https://github.com/toddbontrager/QL-Weather-App#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
