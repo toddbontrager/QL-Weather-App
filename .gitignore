@@ -1,13 +1,7 @@
 # Dependencies
 node_modules/
 public/bower_components/
-build/
-public/dist
 
 # Miscellaneous
 *.log
 .DS_Store
-
-# ENV files
-.env
-*./.env
