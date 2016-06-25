@@ -1,0 +1,19 @@
+{
+  "name": "ql-weather-app",
+  "version": "1.0.0",
+  "description": "A responsive application to get current weather conditions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toddbontrager/QL-Weather-App.git"
+  },
+  "author": "Todd Bontrager",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toddbontrager/QL-Weather-App/issues"
+  },
+  "homepage": "https://github.com/toddbontrager/QL-Weather-App#readme"
+}
